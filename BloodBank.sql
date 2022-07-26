@@ -240,7 +240,8 @@ INSERT INTO donates(donation_id, donor_id, nurse_id, amount_donated) VALUES
     (3, 3, 3, '599.61'),
     (4, 4, 4, '222.54'),
     (5, 5, 5, '612.53'),
-    (6, 6, 6, '432.78');
+    (6, 6, 6, '432.78'),
+    (7, 7, 7, '454.24');
 SELECT * FROM donates;
 
 
